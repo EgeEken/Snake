@@ -1,4 +1,4 @@
 # Snake
 Classic snake game remade in python using pygame
 
-![image](https://user-images.githubusercontent.com/96302110/189720671-2b0bb8b7-67a2-4c34-865c-63ff7ae6cbb9.png)
+![Snake gameplay (2)](https://user-images.githubusercontent.com/96302110/190721748-cf02d6f6-521d-43e4-94df-17f31a90965c.gif)
