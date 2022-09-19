@@ -174,7 +174,6 @@ class Settings:
                     sys.exit()
                 elif event.type == pg.MOUSEBUTTONDOWN:
                     x, y = pg.mouse.get_pos()
-                    print(x, y)
                     if y >= 200 and y <= 300:
                         if x >= 0 and x < 150:
                             self.gamespeed = 0.1
@@ -200,7 +199,6 @@ class Settings:
                     sys.exit()
                 elif event.type == pg.MOUSEBUTTONDOWN:
                     x, y = pg.mouse.get_pos()
-                    print(x, y)
                     if y >= 200 and y <= 300:
                         if x >= 0 and x < 150:
                             self.gamesize = 5
@@ -226,7 +224,6 @@ class Settings:
                     sys.exit()
                 elif event.type == pg.MOUSEBUTTONDOWN:
                     x, y = pg.mouse.get_pos()
-                    print(x, y)
                     if y >= 200 and y <= 300:
                         if x >= 0 and x < 150:
                             self.fac = 300 // self.gamesize
